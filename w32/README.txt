@@ -28,4 +28,7 @@ There are still small details missing in the w32,
 but it is guaranteed that it is almost at its peak
 of its power.
 
+it remains open source, but if you make changes,
+just don't change the creator of the code ;)
+
 Made by: uajsdiuohyfier1111.
