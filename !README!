@@ -1,0 +1,3 @@
+warning, extract all files and place them in a folder,
+executing it directly from the zip file causes bugs
+when decompiling
